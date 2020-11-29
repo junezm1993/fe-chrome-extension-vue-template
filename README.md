@@ -1,2 +1,17 @@
-# fe-chrome-extension-vue-template
-chrome浏览器插件开发模板，包括开发规范设定、插件更新逻辑等
+# Chrome extension using Vue.js、Element-ui and Webpack with auto-reload enabled.
+
+## Scripts
+
+```json
+//install dependencies
+npm install
+
+//build extension and watch for changes
+npm run dev
+
+//build extension zip
+npm run build
+
+//lint all source files
+npm run lint
+```
